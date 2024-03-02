@@ -3,7 +3,7 @@
 _O aprendizado é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende._
 
 - 🔭 Sou Analista de Testes (QA)
-- 🌱 Estou estudando Javascript, Phyton e Appium
+- 🌱 Estou estudando automação de testes mobile
 - 📚 Perfil Hands-on para aprender novas tecnologias
 - 💻 Experiência em testes manuais e automatizados (Web e API)
 - 📫 leilaneribeiro23@gmail.com
